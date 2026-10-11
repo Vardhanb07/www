@@ -1,0 +1,113 @@
+@import "./fonts.css";
+@import "./langs.css";
+
+* {
+  padding: 0;
+  margin: 0 1px;
+  font-family: "JetBrains Mono";
+  font-weight: 600;
+  font-size: 14px;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+  a {
+    color: white;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: white;
+    color: black;
+  }
+  a {
+    color: black;
+  }
+}
+
+a:hover {
+  padding: 1px;
+  background-color: #163986;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+nav > button {
+  background-color: black;
+  color: white;
+  border: 0;
+  text-decoration: underline;
+}
+
+nav > button:hover {
+  cursor: pointer;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 786px) {
+  main {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+main > div {
+  flex: 1;
+}
+
+p {
+  font-size: 13px;
+}
+
+fieldset {
+  padding: 1em;
+}
+
+legend {
+  padding: 3px 6px;
+}
+
+.projects {
+  display: flex;
+  flex-direction: column;
+}
+
+.project {
+  margin-bottom: 5px;
+}
+
+.project_name {
+  text-decoration: underline;
+}
+
+.project_lang_link {
+  text-decoration: none;
+}
+
+p {
+  word-break: break-word;
+  white-space: normal;
+}
+
+hr {
+  margin: 5px 0;
+}
+
+.scrollable {
+  max-height: 700px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  white-space: nowrap;
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "lman",
+    "langs": [
+      {
+        "name": "Go",
+        "href": "https://go.dev/"
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "Cobra",
+        "href": "https://cobra.dev/"
+      }
+    ],
+    "desc": "Manage soft links with lman",
+    "href": "https://github.com/Vardhanb07/lman"
+  },
+  {
+    "name": "brm",
+    "langs": [
+      {
+        "name": "Go",
+        "href": "https://go.dev/"
+      }
+    ],
+    "desc": "Brm moves files to trash directory without deleting them in case you need it",
+    "href": "https://github.com/Vardhanb07/brm"
+  },
+  {
+    "name": "envbuild",
+    "langs": [
+      {
+        "name": "Go",
+        "href": "https://go.dev/"
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "Cobra",
+        "href": "https://cobra.dev/"
+      }
+    ],
+    "desc": "Build .env file from a predefined schema and inject env vars via a kv store",
+    "href": "https://github.com/Vardhanb07/envbuild"
+  },
+  {
+    "name": "csongs",
+    "langs": [
+      {
+        "name": "TypeScript",
+        "href": "https://www.typescriptlang.org/"
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "ink",
+        "href": "https://www.npmjs.com/package/ink"
+      }
+    ],
+    "desc": "A terminal music player",
+    "href": "https://github.com/Vardhanb07/csongs"
+  },
+  {
+    "name": "pop3",
+    "langs": [
+      {
+        "name": "Go",
+        "href": "https://go.dev/"
+      }
+    ],
+    "desc": "A POP3 server implementation (RFC 1939)",
+    "href": "https://github.com/Vardhanb07/pop3"
+  },
+  {
+    "name": "ssg",
+    "langs": [
+      {
+        "name": "Python",
+        "href": "https://www.python.org/"
+      }
+    ],
+    "desc": "Static site generator",
+    "href": "https://github.com/Vardhanb07/ssg"
+  },
+  {
+    "name": "where-is-waldo",
+    "langs": [
+      {
+        "name": "TypeScript",
+        "href": "https://www.typescriptlang.org/"
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "React",
+        "href": "https://react.dev/"
+      },
+      {
+        "name": "React Router",
+        "href": "https://reactrouter.com/"
+      },
+      {
+        "name": "Express",
+        "href": "https://expressjs.com/"
+      }
+    ],
+    "database": [
+      {
+        "name": "PostgreSQL",
+        "href": "https://www.postgresql.org/"
+      }
+    ],
+    "desc": "A web game inspired from where's waldo",
+    "href": "https://github.com/Vardhanb07/where-is-waldo"
+  },
+  {
+    "name": "readersdeck",
+    "langs": [
+      {
+        "name": "TypeScript",
+        "href": "https://www.typescriptlang.org/"
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "React",
+        "href": "https://react.dev/"
+      },
+      {
+        "name": "React Router",
+        "href": "https://reactrouter.com/"
+      },
+      {
+        "name": "Hono",
+        "href": "https://hono.dev/"
+      },
+      {
+        "name": "TanStack Query",
+        "href": "https://tanstack.com/query/latest"
+      }
+    ],
+    "database": [
+      {
+        "name": "PostgreSQL",
+        "href": "https://www.postgresql.org/"
+      }
+    ],
+    "desc": "A place to collect your thoughts",
+    "href": "https://readersdeck.app/"
+  }
+]

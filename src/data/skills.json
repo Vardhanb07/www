@@ -1,0 +1,25 @@
+{
+  "fields": ["Software Engineering"],
+  "langs": [
+    {
+      "name": "TypeScript",
+      "href": "https://www.typescriptlang.org/"
+    },
+    {
+      "name": "JavaScript",
+      "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+      "name": "Go",
+      "href": "https://go.dev/"
+    },
+    {
+      "name": "Cpp",
+      "href": "https://cppreference.com/"
+    },
+    {
+      "name": "Python",
+      "href": "https://www.python.org/"
+    }
+  ]
+}
