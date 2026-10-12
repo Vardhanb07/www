@@ -1,0 +1,31 @@
+[data-name="cobra"] {
+  color: yellow;
+}
+
+[data-name="ink"] {
+  color: rgb(248, 56, 56);
+}
+
+[data-name="react"] {
+  color: #58c4dc;
+}
+
+[data-name="tanstack query"] {
+  color: #d3481b;
+}
+
+[data-name="postgresql"] {
+  color: #699eca;
+}
+
+[data-name="hono"] {
+  color: #e36002;
+}
+
+[data-name="cloudflare d1"] {
+  color: #ff5e1e;
+}
+
+[data-name="tanstack form"] {
+  color: #61adbf;
+}

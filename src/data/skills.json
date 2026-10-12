@@ -21,5 +21,51 @@
       "name": "Python",
       "href": "https://www.python.org/"
     }
+  ],
+  "tech": [
+    {
+      "name": "React",
+      "href": "https://react.dev"
+    },
+    {
+      "name": "React Router",
+      "href": "https://reactrouter.com/"
+    },
+    {
+      "name": "Cobra",
+      "href": "https://cobra.dev/"
+    },
+    {
+      "name": "TanStack Query",
+      "href": "https://tanstack.com/query/latest"
+    },
+    {
+      "name": "Express",
+      "href": "https://expressjs.com/"
+    },
+    {
+      "name": "Hono",
+      "href": "https://hono.dev/"
+    },
+    {
+      "name": "Prisma ORM",
+      "href": "https://www.prisma.io/orm"
+    },
+    {
+      "name": "Drizzle ORM",
+      "href": "https://orm.drizzle.team/"
+    },
+    {
+      "name": "PostgreSQL",
+      "href": "https://www.postgresql.org/"
+    },
+    {
+      "name": "Sqlite",
+      "href": "https://sqlite.org/"
+    },
+    {
+      "name": "TanStack Form",
+      "href": "https://tanstack.com/form/latest"
+    }
   ]
 }
